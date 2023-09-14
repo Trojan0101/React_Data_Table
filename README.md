@@ -1,2 +1,2 @@
 # React_Data_Table
-Sample react.js application which integrated react data table component
+Sample react.js application which integrates react data table component
